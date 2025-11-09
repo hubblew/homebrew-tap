@@ -1,5 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://docs.brew.sh/rubydoc/Formula
 class Pim < Formula
   desc "CLI to manage AI instructions and prompts with ease"
   homepage "https://github.com/hubblew/pim"
