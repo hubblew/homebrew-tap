@@ -2,14 +2,14 @@
 
 ## How do I install these formulae?
 
-`brew install hubblew/pim/pim`
+`brew install hubblew/tap/pim`
 
-Or `brew tap hubblew/pim` and then `brew install pim`.
+Or `brew tap hubblew/tap` and then `brew install pim`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "hubblew/pim"
+tap "hubblew/tap"
 brew "pim"
 ```
 
