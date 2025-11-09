@@ -2,15 +2,15 @@
 
 ## How do I install these formulae?
 
-`brew install hubblew/pim/<formula>`
+`brew install hubblew/pim/pim`
 
-Or `brew tap hubblew/pim` and then `brew install <formula>`.
+Or `brew tap hubblew/pim` and then `brew install pim`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "hubblew/pim"
-brew "<formula>"
+brew "pim"
 ```
 
 ## Documentation
